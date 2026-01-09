@@ -1,1 +1,1 @@
-# hr_analysis_powerBI_project
+# It's Power BI project
